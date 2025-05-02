@@ -84,3 +84,10 @@ if (low > high)
 }
 
 
+int main() {
+    input();
+    bubleSortArray();
+    display();
+    binarySearch();
+}
+
